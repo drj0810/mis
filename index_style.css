@@ -58,6 +58,8 @@
 .cs0 {font-size:10pt;color:#000000;font-family:"한컴바탕";}
 .cs1 {font-size:10pt;color:#000000;font-family:"한컴바탕";}
 .cs2 {font-size:10pt;color:#000000;font-family:"굴림";}
+.cs3 {font-size:10pt;color:#0000FF;font-family:"한컴바탕";}
+.cs3::after {content:'';position:absolute;left:0;right:0;top:0;bottom:0;z-index:-1;background-image:url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiPjxsaW5lIHgxPSIwIiB5MT0iOTQlIiB4Mj0iMTAwJSIgeTI9Ijk0JSIgc3R5bGU9InN0cm9rZTpyZ2IoMCwwLDI1NSk7c3Ryb2tlLXdpZHRoOjAuMm1tIi8+PC9zdmc+');}
 .ps0 {text-align:justify;}
 .ps1 {text-align:justify;}
 .ps2 {text-align:justify;}
