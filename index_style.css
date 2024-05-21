@@ -63,7 +63,6 @@
 .ps0 {text-align:justify;}
 .ps1 {text-align:justify;}
 .ps2 {text-align:justify;}
-.ps3 {text-align:center;}
 @media print {
 .hpa {margin:0;border:0 black none;box-shadow:none;}
 body {padding:0;}
